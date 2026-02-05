@@ -1,8 +1,7 @@
 # Hi, I'm Michał
 
-🎓 3rd year [PJATK](https://pja.edu.pl/informatyka/) student</br>
-📌 Currently working on my engineering thesis</br>
-⌨️ C# & Python enjoyer</br>
+🎓 4th year [PJATK](https://pja.edu.pl/informatyka/) student with thesis defense scheduled for late February</br>
+📌 Currently working on WebAPI project with .NET Core, Auth0, Docker</br>
 🏐 Amateur volleyball player</br>
 🎴 Learning Japaneese</br>
 ✉️ mlaskowski512@gmail.com</br>
